@@ -1,4 +1,4 @@
-# 
+# Ligero ChatMind paquete completo. Descarga e instala con monitoreo en tiempo real y implementación local — rápido, seguro y fácil de usar.
 
 
 
